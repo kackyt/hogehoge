@@ -23,3 +23,4 @@ class Hoge
   
 end
 
+$xx = 22
