@@ -2,4 +2,6 @@ ruby:
   enabled: true
 cpp:
   config_file: .cpplint.yml
+cpplint:
+  config_file: .cpplint.yml
 
