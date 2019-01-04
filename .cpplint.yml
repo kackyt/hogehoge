@@ -1,0 +1,9 @@
+LineLength: 150
+Build/Include:
+  Enabled: false
+Build/Include_What_You_Use:
+  Enabled: false
+Build/Header_Guard:
+  Enabled: false
+Build/Namespaces:
+  Enabled: false
