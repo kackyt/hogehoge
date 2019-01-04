@@ -1,2 +1,5 @@
 ruby:
   enabled: true
+cpp:
+  config_file: .cpplint.yml
+
