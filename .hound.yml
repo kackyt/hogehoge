@@ -1,5 +1,5 @@
-rubocop:
-  enabled: true
+ruby:
+  enabled: false
 cpp:
   config_file: .cpplint.yml
 
