@@ -1,5 +1,5 @@
 ruby:
-  enabled: true
+  enabled: false
 cpp:
   config_file: .cpplint.yml
 
